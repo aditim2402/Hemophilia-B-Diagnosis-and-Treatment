@@ -96,3 +96,5 @@ The dataset consists of **1399 entries** and **21 columns**, including:
 - **Random Forest performed the best** with an accuracy of **98.38%**, followed by XGBoost (97.92%), and then SVM (96.54%).
 - Random Forest and XGBoost had **higher precision, recall, and F1-scores** across all severity levels.
 - **SVM had the highest misclass
+![image](https://github.com/user-attachments/assets/4cc011f9-d92c-424c-8b95-4dabea005173)
+
